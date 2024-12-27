@@ -52,7 +52,7 @@ body {
     top: 50%; /* Zentriere vertikal */
     left: 50%; /* Zentriere horizontal */
     transform: translate(-50%, -50%); /* Korrektur zur exakten Zentrierung */
-    background: rgba(255, 255, 255, 0.8); /* Halbtransparenter weißer Hintergrund */
+    background: rgba(255, 255, 255, 0.9); /* Halbtransparenter weißer Hintergrund */
     padding: 15px;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
