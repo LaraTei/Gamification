@@ -59,8 +59,6 @@ body {
     width: 35%; /* Breite der Box */
     text-align: center;
     z-index: 10; /* Über allem anderen */
-    opacity: 0.7; /* Standardzustand: transparenter */
-    transition: opacity 0.3s ease; /* Übergangsanimation */
 }
 
 .product-details:hover {
